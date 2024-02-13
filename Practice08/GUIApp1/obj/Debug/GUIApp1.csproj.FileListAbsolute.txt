@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\bin\Debug\GUIApp1.exe.config
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\bin\Debug\GUIApp1.exe
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\bin\Debug\GUIApp1.pdb
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.frmArrayGUI.resources
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.exe
+C:\Users\jpscott\Desktop\Practice-Chapter08\Practice08\GUIApp1\obj\Debug\GUIApp1.pdb
